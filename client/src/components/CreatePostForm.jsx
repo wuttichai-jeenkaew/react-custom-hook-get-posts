@@ -1,4 +1,6 @@
 function CreatePostForm() {
+  
+
   return (
     <form className="post-form">
       <h1>Create Post Form</h1>
